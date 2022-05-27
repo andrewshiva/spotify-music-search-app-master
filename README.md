@@ -1,5 +1,5 @@
 
- I created this  create a Fully Responsive Spotify Music Search App using Spotify Music API.
+ I created this Fully Responsive Spotify Music Search App using Spotify Music API.
  features of this app are 
  1. How to use Spotify API to provide OAuth authentication
 2. How to search for the Albums, Artists and Playlists
