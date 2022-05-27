@@ -1,3 +1,12 @@
+
+ I created this  create a Fully Responsive Spotify Music Search App using Spotify Music API.
+ features of this app are 
+ 1. How to use Spotify API to provide OAuth authentication
+2. How to search for the Albums, Artists and Playlists
+3. Display the details with a beautiful UI
+4. Play the songs directly from the list
+5. How to add load more functionality to the app
+6. How to add and maintain separate load more functionality for Albums, Artists and Playlists
 To run this project, 
 
 open `.env` file and add your client_id from spotify dashboard and then open terminal and execute the following commands in sequence
